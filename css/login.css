@@ -45,12 +45,12 @@ body {
 }
 
 .main-nav li:nth-child(1) a {
-	background: #d83d3d;
+	background: #616161;
 	border: 2px solid #fff;
 }
 .main-nav li:nth-child(1) a:hover {
 	background: #fff;
-	color: #d83d3d;
+	color: #616161;
 }
 
 .main-nav li:nth-child(2) a {
