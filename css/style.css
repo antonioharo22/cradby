@@ -740,7 +740,7 @@ button {
 .contact_taital{
     width: 100%;
     float: left;
-    font-size: 14px;
+    font-size: 16px;
     color: #ffffff;
     font-weight: 600;
     border-bottom: 1px solid #ffffff;
@@ -749,7 +749,7 @@ button {
 .location_text {
     width: 100%;
     float: left;
-    font-size: 18px;
+    font-size: 16px;
     color: #fdfdfd;
     padding-top: 15px;
     text-align: center;
