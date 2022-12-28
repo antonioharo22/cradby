@@ -745,6 +745,7 @@ button {
     font-weight: 600;
     border-bottom: 1px solid #ffffff;
     text-align: center;
+    white-space: nowrap;
 }
 .location_text {
     width: 100%;
